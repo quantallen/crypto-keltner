@@ -1,0 +1,13 @@
+#binance_key = 'ad58f1fbcc1afc307e72ae65a475dbdf0c0024f5b268a9738326860d7d5095c0'
+#binance_secret = 'f7acaddafdf753eb99aefeb43e913850fa746659bd12259cf41f7908ac2c8971'
+
+
+#binance_key = 'dfb9d3ae7135480bf35e310b78cd89b34d440364c60837fdb2ddec12b9bc067f'
+#binance_secret = '1d06408e2dffe0ae421c9caceddeca9540cb4bd8048d5ec1dcc59e86712e1ac7'
+
+#binance_key = '62da0560246858e3a65ff9e0cdd898e73194ac7834ed6f213d96deb231078c55'
+#binance_secret = 'c433fb6a1232da53766d5831e3ed049d495ba8886acbd52043a1f05d690b2936'
+
+
+binance_key = 'TTgg3oZDJF3lSL6f4AjLAsYnyc3EMS05ocjyGldKSgybuR06mYADVrUKZ1L5eAoV'
+binance_secret = 'B1Jjbc7QopP62n8X2JpKVfiHt8FJJEcLiPMbsjWqRd7i6FnYziFPl41nmEce4x8s'
